@@ -17,7 +17,6 @@
     }
     echo "Factorial of $num";
     ?>
-
 </body>
 
 </html>
